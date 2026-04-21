@@ -1,6 +1,6 @@
 # Hi, I'm Kashif 👋
 
-Software Engineering student at UNB in Fredericton. Graduating spring 2027.
+Software Engineering student at the University of New Brunswick in Fredericton, NB. Graduating fall 2027.
 
 Most of what I write is Python or JavaScript, but I'll pick up whatever a project needs — C++, SQL, Racket once for a course and never again by choice.
 
