@@ -14,8 +14,9 @@ Most of what I write is Python or JavaScript, but I'll pick up whatever a projec
 Job hunting for a summer 2026 co-op (mostly around the Maritimes), shipping side projects, and slowly chipping away at Elden Ring Nightreign between assignments.
 
 ### Outside the terminal
-Soulsborne games, anime, graphic design. 100%'d Witcher 3, which I will bring up in conversation uninvited.
-
+- Soulsborne games fan, games, anime, graphic design, and cooking. 100%'d Witcher 3, which I will bring up in conversation uninvited.
+- Black coffee any day!
+  
 ### Say hi
 - Email: mkahmed.2004@unb.ca
 - LinkedIn: [Mohammed Kashif Ahmed in](https://www.linkedin.com/in/mohammed-kashif-ahmed-77b2b9209/)
